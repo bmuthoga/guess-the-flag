@@ -1,6 +1,8 @@
 # Guess the Flag
 This is a simple guessing game to test your knowledge of the world's flags, built with React.
 
+A deployed version / online editor to play with the codebase can be found [here](https://codesandbox.io/s/github/bmuthoga/guess-the-flag)
+
 Below is a preview of how it looks:
 
 <img src="https://i.ibb.co/z5fgQJj/guess-the-flag.gif" width="300" height="200" />

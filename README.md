@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Guess the Flag
+This is a simple guessing game to test your knowledge of the world's flags, built with React.
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/z5fgQJj/guess-the-flag.gif" width="300" height="200" />
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
